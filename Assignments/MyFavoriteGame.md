@@ -3,7 +3,7 @@
 ###### Christopher Salinas
 ---
 
-![Gameplay Screenshot](/Users/isht/Desktop/Berk/Sem6 Spring24/MTEC 340 Unity/MTEC340/Assignments/MiscAssets/zelda-botw-10.jpg)
+![Gameplay Screenshot](https://tiredoldhackdotcom.files.wordpress.com/2017/03/zelda-botw-10.jpg)
 
 ### Intro
 I think my favorite game as of now is *The Legend of Zelda: Breath of the Wild*. It is a game developed by **[Nintendo] (https://www.nintendo.com/us/)** and was released on March 3, 2017. According to what I've seen online, the game uses a combination of Nintendo's propriety engines and a modified version of the Havok physics engine.
