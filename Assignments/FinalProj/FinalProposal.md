@@ -4,7 +4,7 @@
 My game will probably be called *Roompath*. Very creative. 
 
 ## Project Summary 
-I plan to make a basic first-person-shooter kind of game wherin the goal is basically to get from the start of the course to the end. There will be enemies along the way the aim to hinder the player with projectiles, and there will likely be map-related obstacles like walls and doors to make the navigation more interesting and combat more dynamic. The player will have either a health bar or a lives counter that will start at the maximum amount at the beginning of the course and will become depleted my enemy projectiles. In traditional FPS fashion (for some games at least), I'd maybe like for the player to initially start out with nothing and be able to find a weapon somewhere in the scene to fight back against the emenies. 
+I plan to make a basic first-person-shooter kind of game wherin the goal is basically to get from the start of the course to the end. There will be enemies along the way the aim to hinder the player with projectiles, and there will likely be map-related obstacles like walls and doors to make the navigation more interesting and combat more dynamic. The player will have either a health bar or a lives counter that will start at the maximum amount at the beginning of the course and will become depleted by enemy projectiles. In traditional FPS fashion (for some games at least), I'd maybe like for the player to initially start out with nothing and be able to find a weapon somewhere in the scene to fight back against the emenies. 
 
 In the course there will be a total of four rooms:
 1. Starting room 
